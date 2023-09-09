@@ -1,3 +1,6 @@
+-- Show keymaps 
+-- :Telescope keymaps
+
 require('settings')
 require('packages')
 require('plugins/telescope')
