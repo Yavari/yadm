@@ -115,6 +115,7 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+export PATH="/home/payam/bin:$PATH"
 . "$HOME/.cargo/env"
 alias explorer="explorer.exe ."
 eval "$(starship init bash)"
