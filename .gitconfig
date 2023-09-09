@@ -1,0 +1,7 @@
+[init]
+	defaultBranch = main
+[user]
+	email = payam@yavtech.se
+	name = Payam Yavari
+[credential]
+	helper = store

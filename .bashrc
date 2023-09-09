@@ -117,3 +117,4 @@ if ! shopt -oq posix; then
 fi
 . "$HOME/.cargo/env"
 alias explorer="explorer.exe ."
+eval "$(starship init bash)"
